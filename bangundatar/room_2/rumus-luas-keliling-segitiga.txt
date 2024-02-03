@@ -12,4 +12,4 @@ function TentukanLuasDanKelilingSegitigaSamaSisi(a, t) {
   console.log("Keliling Segitiga:", keliling, "cm");
 }
 
-TentukanLuasDanKelilingSegitigaSamaSisi(1, 2);
+TentukanLuasDanKelilingSegitigaSamaSisi(1, 2); 
