@@ -1,0 +1,14 @@
+function tentukanLuasDanKelilingSegitiga(a,t) {
+    const alas = a;
+    const tinggi = t;
+//Proses//
+    const luas = (alas*tinggi)/2;
+    const keliling = 3*alas;
+//Hasil//
+    console.log("Alas Segitiga:", alas, "cm");
+    console.log("Tinggi Segitiga:", tinggi, "cm");
+    console.log("Luas Segitiga:", luas, "cm^2");
+    console.log("Keliling Segitiga:", keliling, "cm");
+}
+
+tentukanLuasDanKelilingSegitiga(5,10);
