@@ -1,3 +1,4 @@
 1. Buatlah file dengan judul <nama bangun datar>.txt
 2. Masukan rumus yang kamu bikin disini
+3. hallo
 3. test
