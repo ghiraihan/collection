@@ -13,6 +13,7 @@ function TentukanLuasDanKelilingPersegiPanjang(p, l) {
     // TODO: gunakan console.log untuk mencetak hasil luas dan keliling
     
     // Akhir pembuatan code
+    console.log("Testing");
   }
   
   TentukanLuasDanKelilingPersegiPanjang(5, 7);
