@@ -1,0 +1,2 @@
+1. Buatlah file dengan judul <nama bangun datar>.txt
+2. Masukan rumus yang kamu bikin disini
